@@ -63,7 +63,7 @@ jobs:
       
       - name: Extract changelog section
         id: extract_changelog
-        run: |
+        run: >
           escaped=$(echo "${{ needs.build.outputs.release-tag }}" | sed 's/\./\\./g')
           section=$(grep -zoP "## \[$escaped\](?:.|\n)*?\n## " CHANGELOG.md | sed '$ d')
           echo changelog="$section" >> "GITHUB_OUTPUT"

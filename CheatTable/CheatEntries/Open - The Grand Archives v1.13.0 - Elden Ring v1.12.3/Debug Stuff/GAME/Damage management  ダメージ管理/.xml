@@ -1,0 +1,20 @@
+<CheatEntry>
+  <ID>107928</ID>
+  <Description>"Damage management | ダメージ管理"</Description>
+  <Options moHideChildren="1"/>
+  <GroupHeader>1</GroupHeader>
+  <x-ce2fs-child-order>
+    <id id="107929"/>
+    <id id="107930"/>
+    <id id="107931"/>
+    <id id="107932"/>
+    <id id="107933"/>
+    <id id="107934"/>
+    <id id="107935"/>
+    <id id="107936"/>
+    <id id="107937"/>
+    <id id="107938"/>
+    <id id="107939"/>
+    <id id="107940"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

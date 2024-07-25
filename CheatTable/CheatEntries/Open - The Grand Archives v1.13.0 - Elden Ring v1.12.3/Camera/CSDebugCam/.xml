@@ -1,0 +1,27 @@
+<CheatEntry>
+  <ID>107860</ID>
+  <Description>"CSDebugCam"</Description>
+  <Options moHideChildren="1"/>
+  <ShowAsSigned>0</ShowAsSigned>
+  <GroupHeader>1</GroupHeader>
+  <Address>FieldArea</Address>
+  <Offsets>
+    <Offset>0</Offset>
+    <Offset>D0</Offset>
+    <Offset>20</Offset>
+  </Offsets>
+  <x-ce2fs-child-order>
+    <id id="107861"/>
+    <id id="107866"/>
+    <id id="107871"/>
+    <id id="107876"/>
+    <id id="107877"/>
+    <id id="107878"/>
+    <id id="107879"/>
+    <id id="107880"/>
+    <id id="107881"/>
+    <id id="107882"/>
+    <id id="107883"/>
+    <id id="107884"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

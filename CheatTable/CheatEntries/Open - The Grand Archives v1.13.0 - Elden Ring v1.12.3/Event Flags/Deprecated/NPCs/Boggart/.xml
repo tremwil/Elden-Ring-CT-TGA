@@ -1,0 +1,30 @@
+<CheatEntry>
+  <ID>107405</ID>
+  <Description>"Boggart"</Description>
+  <Options moHideChildren="1"/>
+  <ShowAsSigned>0</ShowAsSigned>
+  <GroupHeader>1</GroupHeader>
+  <Address>CSFD4VirtualMemoryFlag</Address>
+  <Offsets>
+    <Offset>205</Offset>
+    <Offset>28</Offset>
+  </Offsets>
+  <x-ce2fs-child-order>
+    <id id="107406"/>
+    <id id="107407"/>
+    <id id="107408"/>
+    <id id="107409"/>
+    <id id="107410"/>
+    <id id="107411"/>
+    <id id="107412"/>
+    <id id="107413"/>
+    <id id="107414"/>
+    <id id="107415"/>
+    <id id="107416"/>
+    <id id="107417"/>
+    <id id="107418"/>
+    <id id="107419"/>
+    <id id="107420"/>
+    <id id="107421"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

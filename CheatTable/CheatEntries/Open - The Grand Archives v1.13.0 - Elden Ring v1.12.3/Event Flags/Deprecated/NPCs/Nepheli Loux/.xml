@@ -1,0 +1,20 @@
+<CheatEntry>
+  <ID>107579</ID>
+  <Description>"Nepheli Loux"</Description>
+  <Options moHideChildren="1"/>
+  <ShowAsSigned>0</ShowAsSigned>
+  <GroupHeader>1</GroupHeader>
+  <Address>CSFD4VirtualMemoryFlag</Address>
+  <Offsets>
+    <Offset>20F</Offset>
+    <Offset>28</Offset>
+  </Offsets>
+  <x-ce2fs-child-order>
+    <id id="107580"/>
+    <id id="107581"/>
+    <id id="107582"/>
+    <id id="107583"/>
+    <id id="107584"/>
+    <id id="107585"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

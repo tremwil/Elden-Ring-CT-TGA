@@ -1,0 +1,46 @@
+<CheatEntry>
+  <ID>107632</ID>
+  <Description>"Dialog Roundtable Hold"</Description>
+  <Options moHideChildren="1"/>
+  <ShowAsSigned>0</ShowAsSigned>
+  <GroupHeader>1</GroupHeader>
+  <Address>CSFD4VirtualMemoryFlag</Address>
+  <Offsets>
+    <Offset>153A54</Offset>
+    <Offset>28</Offset>
+  </Offsets>
+  <x-ce2fs-child-order>
+    <id id="107633"/>
+    <id id="107634"/>
+    <id id="107635"/>
+    <id id="107636"/>
+    <id id="107637"/>
+    <id id="107638"/>
+    <id id="107639"/>
+    <id id="107640"/>
+    <id id="107641"/>
+    <id id="107642"/>
+    <id id="107643"/>
+    <id id="107644"/>
+    <id id="107645"/>
+    <id id="107646"/>
+    <id id="107647"/>
+    <id id="107648"/>
+    <id id="107649"/>
+    <id id="107650"/>
+    <id id="107651"/>
+    <id id="107652"/>
+    <id id="107653"/>
+    <id id="107654"/>
+    <id id="107655"/>
+    <id id="107656"/>
+    <id id="107657"/>
+    <id id="107658"/>
+    <id id="107659"/>
+    <id id="107660"/>
+    <id id="107661"/>
+    <id id="107662"/>
+    <id id="107663"/>
+    <id id="107664"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

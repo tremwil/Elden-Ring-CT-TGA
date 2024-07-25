@@ -1,0 +1,14 @@
+<CheatEntry>
+  <ID>106137</ID>
+  <Description>"-- Seamless PvP"</Description>
+  <Options moHideChildren="1"/>
+  <VariableType>Auto Assembler Script</VariableType>
+  <x-ce2fs-child-order>
+    <id id="106138"/>
+    <id id="106139"/>
+    <id id="106140"/>
+    <id id="106142"/>
+    <id id="106143"/>
+    <id id="106144"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

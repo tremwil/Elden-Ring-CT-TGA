@@ -1,0 +1,20 @@
+<CheatEntry>
+  <ID>107398</ID>
+  <Description>"Boc"</Description>
+  <Options moHideChildren="1"/>
+  <ShowAsSigned>0</ShowAsSigned>
+  <GroupHeader>1</GroupHeader>
+  <Address>CSFD4VirtualMemoryFlag</Address>
+  <Offsets>
+    <Offset>1EC</Offset>
+    <Offset>28</Offset>
+  </Offsets>
+  <x-ce2fs-child-order>
+    <id id="107399"/>
+    <id id="107400"/>
+    <id id="107401"/>
+    <id id="107402"/>
+    <id id="107403"/>
+    <id id="107404"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

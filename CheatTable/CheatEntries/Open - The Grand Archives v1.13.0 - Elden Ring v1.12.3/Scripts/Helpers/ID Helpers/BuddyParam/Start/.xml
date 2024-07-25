@@ -1,0 +1,43 @@
+<CheatEntry>
+  <ID>103438</ID>
+  <Description>"Start"</Description>
+  <ShowAsHex>1</ShowAsHex>
+  <ShowAsSigned>0</ShowAsSigned>
+  <VariableType>Array of byte</VariableType>
+  <ByteLength>0</ByteLength>
+  <Address>BuddyParamHelper+8</Address>
+  <Offsets>
+    <Offset>0</Offset>
+  </Offsets>
+  <x-ce2fs-child-order>
+    <id id="103439"/>
+    <id id="103440"/>
+    <id id="103441"/>
+    <id id="103442"/>
+    <id id="103443"/>
+    <id id="103444"/>
+    <id id="103445"/>
+    <id id="103446"/>
+    <id id="103447"/>
+    <id id="103448"/>
+    <id id="103449"/>
+    <id id="103450"/>
+    <id id="103451"/>
+    <id id="103452"/>
+    <id id="103453"/>
+    <id id="103454"/>
+    <id id="103455"/>
+    <id id="103456"/>
+    <id id="103457"/>
+    <id id="103458"/>
+    <id id="103459"/>
+    <id id="103460"/>
+    <id id="103461"/>
+    <id id="103462"/>
+    <id id="103463"/>
+    <id id="103464"/>
+    <id id="103465"/>
+    <id id="103466"/>
+    <id id="103467"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

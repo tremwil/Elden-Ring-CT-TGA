@@ -1,0 +1,16 @@
+<CheatEntry>
+  <ID>101161</ID>
+  <Description>"Last original spawn coords"</Description>
+  <Options moManualExpandCollapse="1"/>
+  <ShowAsHex>1</ShowAsHex>
+  <ShowAsSigned>0</ShowAsSigned>
+  <VariableType>Array of byte</VariableType>
+  <ByteLength>16</ByteLength>
+  <Address>ItemDrop_LastMapId</Address>
+  <x-ce2fs-child-order>
+    <id id="101162"/>
+    <id id="101163"/>
+    <id id="101164"/>
+    <id id="101165"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

@@ -1,0 +1,6 @@
+<CheatEntry>
+  <ID>102481</ID>
+  <Description>"heroPointDamage"</Description>
+  <VariableType>Byte</VariableType>
+  <Address>+0144</Address>
+</CheatEntry>

@@ -1,0 +1,6 @@
+<CheatEntry>
+  <ID>102483</ID>
+  <Description>"flickDamageCutRate"</Description>
+  <VariableType>Byte</VariableType>
+  <Address>+0146</Address>
+</CheatEntry>

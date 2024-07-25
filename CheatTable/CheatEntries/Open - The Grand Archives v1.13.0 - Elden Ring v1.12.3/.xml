@@ -1,0 +1,19 @@
+<CheatEntry>
+  <ID>0</ID>
+  <Description>"Open - The Grand Archives v1.13.0 - Elden Ring v1.12.3"</Description>
+  <Options moHideChildren="1"/>
+  <VariableType>Auto Assembler Script</VariableType>
+  <x-ce2fs-child-order>
+    <id id="100000"/>
+    <id id="100001"/>
+    <id id="100270"/>
+    <id id="101033"/>
+    <id id="106145"/>
+    <id id="255"/>
+    <id id="107782"/>
+    <id id="107885"/>
+    <id id="107926"/>
+    <id id="108176"/>
+    <id id="108185"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

@@ -1,0 +1,22 @@
+<CheatEntry>
+  <ID>101018</ID>
+  <Description>"Advanced Settings"</Description>
+  <Options moHideChildren="1"/>
+  <GroupHeader>1</GroupHeader>
+  <x-ce2fs-child-order>
+    <id id="101019"/>
+    <id id="101020"/>
+    <id id="101021"/>
+    <id id="101022"/>
+    <id id="101023"/>
+    <id id="101024"/>
+    <id id="101025"/>
+    <id id="101026"/>
+    <id id="101027"/>
+    <id id="101028"/>
+    <id id="101029"/>
+    <id id="101030"/>
+    <id id="101031"/>
+    <id id="101032"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

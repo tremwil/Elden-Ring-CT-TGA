@@ -1,0 +1,16 @@
+<CheatEntry>
+  <ID>108229</ID>
+  <Description>"Global Functions"</Description>
+  <Options moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+  <GroupHeader>1</GroupHeader>
+  <x-ce2fs-child-order>
+    <id id="108230"/>
+    <id id="108231"/>
+    <id id="108232"/>
+    <id id="108233"/>
+    <id id="108234"/>
+    <id id="108235"/>
+    <id id="108236"/>
+    <id id="108237"/>
+  </x-ce2fs-child-order>
+</CheatEntry>

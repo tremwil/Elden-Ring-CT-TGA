@@ -1,6 +1,10 @@
 # Changelog
 ## [Unreleased]
 
+## [v1.14.0] - 2024-07-05
+### Added
+ - Test
+
 ## [v1.13.0] - 2024-07-05
 ### Added
  - full EquipItemData header
